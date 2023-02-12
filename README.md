@@ -1,13 +1,24 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+# API CRUD com TypeScript
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+Desenvolvimento de um CRUD (Create, Read, Update e Delete) de itens medievais, no formato de uma API, utilizando Typescript.
+
+## Instalação
+
+Instale API_CRUD_com_TypeScript usando npm
+
+```bash
+  git clone git@github.com:nataliakoliveira/API_CRUD_com_TypeScript.git
+  cd API_CRUD_com_TypeScript
+  npm install
+```
+    
+## Stack utilizada
+
+**Back-end:** Express, Sequelize, MySQL, TypeScript, Docker
+
+
+## Screenshots
+
+!(https://prnt.sc/c5ELEJ3okY78)
+
