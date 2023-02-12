@@ -20,5 +20,5 @@ Instale API_CRUD_com_TypeScript usando npm
 
 ## Screenshots
 
-!(https://prnt.sc/c5ELEJ3okY78)
+![Rotas](img/img.png))
 
