@@ -1,5 +1,5 @@
 export interface IUser {
-  id: number;
+  id?: number;
   username: string;
   vocation: string;
   level: number;
